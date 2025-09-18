@@ -1,4 +1,7 @@
-# InvestmentMiniCalculator
+# Investment Calculator
+
+<img width="1287" height="830" alt="image" src="https://github.com/user-attachments/assets/b2f53ebe-b4cb-44b7-9389-6dda7a3c4b9b" />
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
 
